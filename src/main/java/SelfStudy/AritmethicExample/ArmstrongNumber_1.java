@@ -1,4 +1,4 @@
-package SelfStudy;
+package SelfStudy.AritmethicExample;
 
 import java.util.Arrays;
 import java.util.Scanner;
